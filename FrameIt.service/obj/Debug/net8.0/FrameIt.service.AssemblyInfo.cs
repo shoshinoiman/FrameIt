@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrameIt.service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1de9d5abb6b674ca0ea7f9a522c19d0fbbbcc800")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21124b3868b6e902b6d18375dd04a8fdb283845")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrameIt.service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrameIt.service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
