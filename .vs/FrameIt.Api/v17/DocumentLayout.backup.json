@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameit.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameit.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameIt.Api\\appsettings.json",
               "RelativeDocumentMoniker": "FrameIt.Api\\appsettings.json",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameIt.Api\\appsettings.json",
               "RelativeToolTip": "FrameIt.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-24T18:39:19.974Z",
               "EditorCaption": ""
@@ -51,12 +51,11 @@
               "RelativeToolTip": "FrameIt.Api\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-24T17:51:53.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T17:51:53.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameIt.Api\\.gitignore",
               "RelativeDocumentMoniker": "FrameIt.Api\\.gitignore",
