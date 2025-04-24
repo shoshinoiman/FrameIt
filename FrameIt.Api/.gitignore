@@ -1,0 +1,22 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Secrets
+appsettings.Development.json
+appsettings.json
+secrets.json
+
+# VS Code
+.vs/
+.vscode/
+
+# Others
+*.log
+*.db
+*.DS_Store
+.env
