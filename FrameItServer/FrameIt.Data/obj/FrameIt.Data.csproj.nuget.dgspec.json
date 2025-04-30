@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Data\\FrameIt.Data.csproj": {}
+    "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Data\\FrameIt.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Core\\FrameIt.Core.csproj": {
+    "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Core\\FrameIt.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Core\\FrameIt.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Core\\FrameIt.Core.csproj",
         "projectName": "FrameIt.Core",
-        "projectPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Core\\FrameIt.Core.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Core\\FrameIt.Core.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Core\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Data\\FrameIt.Data.csproj": {
+    "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Data\\FrameIt.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Data\\FrameIt.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Data\\FrameIt.Data.csproj",
         "projectName": "FrameIt.Data",
-        "projectPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Data\\FrameIt.Data.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Data\\FrameIt.Data.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Data\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,8 +107,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Core\\FrameIt.Core.csproj": {
-                "projectPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Core\\FrameIt.Core.csproj"
+              "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Core\\FrameIt.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Core\\FrameIt.Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NaQk+1YU6tc=",
+  "dgSpecHash": "EmkWOOgeYR0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Data\\FrameIt.Data.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Data\\FrameIt.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\aspectcore.abstractions\\2.4.0\\aspectcore.abstractions.2.4.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\aspectcore.core\\2.4.0\\aspectcore.core.2.4.0.nupkg.sha512",

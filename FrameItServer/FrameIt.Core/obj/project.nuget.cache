@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SyyWmthP9kU=",
+  "dgSpecHash": "BGEmsTfbWBc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameIt.Core\\FrameIt.Core.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\לימודם שנה ב\\הגשות\\פרקטיקום מלכה\\‏‏תיקיה חדשה\\FrameItServer\\FrameIt.Core\\FrameIt.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.13\\microsoft.entityframeworkcore.8.0.13.nupkg.sha512",

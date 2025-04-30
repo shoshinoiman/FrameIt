@@ -10,3 +10,16 @@ C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מל
 C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\FrameIt\FrameIt.Api\FrameIt.Core\obj\Debug\net8.0\refint\FrameIt.Core.dll
 C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\FrameIt\FrameIt.Api\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.pdb
 C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\FrameIt\FrameIt.Api\FrameIt.Core\obj\Debug\net8.0\ref\FrameIt.Core.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\bin\Debug\net8.0\FrameIt.Core.deps.json
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\bin\Debug\net8.0\FrameIt.Core.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\bin\Debug\net8.0\FrameIt.Core.pdb
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.sourcelink.json
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\refint\FrameIt.Core.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\FrameIt.Core.pdb
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Core\obj\Debug\net8.0\ref\FrameIt.Core.dll

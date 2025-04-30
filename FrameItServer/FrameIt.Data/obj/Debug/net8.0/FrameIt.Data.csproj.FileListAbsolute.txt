@@ -15,3 +15,21 @@ C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מל
 C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\FrameIt\FrameIt.Api\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.pdb
 C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\FrameIt\FrameIt.Api\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.genruntimeconfig.cache
 C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\FrameIt\FrameIt.Api\FrameIt.Data\obj\Debug\net8.0\ref\FrameIt.Data.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\bin\Debug\net8.0\FrameIt.Data.deps.json
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\bin\Debug\net8.0\FrameIt.Data.runtimeconfig.json
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\bin\Debug\net8.0\FrameIt.Data.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\bin\Debug\net8.0\FrameIt.Data.pdb
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\bin\Debug\net8.0\FrameIt.Core.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\bin\Debug\net8.0\FrameIt.Core.pdb
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.sourcelink.json
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt..CC232C48.Up2Date
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\refint\FrameIt.Data.dll
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.pdb
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\FrameIt.Data.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודם שנה ב\הגשות\פרקטיקום מלכה\‏‏תיקיה חדשה\FrameItServer\FrameIt.Data\obj\Debug\net8.0\ref\FrameIt.Data.dll
