@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FrameIt.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250318162042_firstMigration")]
-    partial class firstMigration
+    [Migration("20250503204651_mymig")]
+    partial class mymig
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
