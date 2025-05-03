@@ -20,6 +20,7 @@ using System.Text.Json.Serialization;
 // בשלב של קונפיגורציה של שירותי ה-Controllers
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Configuration.AddEnvironmentVariables();
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
@@ -65,10 +66,15 @@ builder.Services.AddSingleton<IAmazonS3>(sp =>
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 
-///////////////////////////////////////////=====gpt===//////////////////////////////////////////////
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+Console.WriteLine($"Connection string: {connectionString}");
+
 builder.Services.AddDbContext<DataContext>(options =>
-    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
-///////////////////////////////////////////////////////////////////////////////////////////
+    options.UseMySQL(connectionString));
+/////////////////////////////////////////////=====gpt===//////////////////////////////////////////////
+//builder.Services.AddDbContext<DataContext>(options =>
+//    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
+/////////////////////////////////////////////////////////////////////////////////////////////
 
 builder.Services.AddAuthentication(options =>
 {
