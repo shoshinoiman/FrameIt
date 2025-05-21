@@ -76,6 +76,8 @@ builder.Services.AddDbContext<DataContext>(options =>
 //    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
 /////////////////////////////////////////////////////////////////////////////////////////////
 
+
+
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -139,23 +141,29 @@ builder.Services.AddCors(options =>
         });
 });
 
-
 var app = builder.Build();
 
+// ?? הפעלת CORS צריכה לבוא לפני Authentication/Authorization
 app.UseCors("AllowAll");
-// Configure the HTTP request pipeline.
+
+// ?? אם את משתמשת ב-HTTPS בלבד, תשאירי את זה
+app.UseHttpsRedirection();
+
+// ?? הפעלת Authentication לפני Authorization
+app.UseAuthentication();
+app.UseAuthorization();
+
+// ?? Swagger רק בפיתוח
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
+// ?? נקודת בדיקה שהשרת רץ
 app.MapGet("/", () => "Server is running...");
+
+// ?? כל שאר ה-Controllers
 app.MapControllers();
 
 app.Run();
-
