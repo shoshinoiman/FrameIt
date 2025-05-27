@@ -13,7 +13,7 @@ namespace FrameIt.Core.Services
     {
         Task<Collage> CreateCollageAsync(int userId, string title,string url);
         Task<Collage> GetCollageByIdAsync(int collageId); 
-        Task<List<Collage>> GetCollagesByUserAsync(int userId);
+        Task<List<CollageDto>> GetCollagesByUserAsync(int userId);
         //Task<ImageItem> AddImageToCollageAsync(int collageId, ImageItemDto imageItemDto);
         Task<bool> DeleteCollageAsync(int collageID);
 
