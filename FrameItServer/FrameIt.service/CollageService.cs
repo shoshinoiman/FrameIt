@@ -65,6 +65,7 @@ namespace FrameIt.service
             // ממירים את ה-Entities ל-DTOs
             var collageDtos = collages.Select(c => new CollageDto
             {
+                Id = c.Id,
                 UserId = c.UserId,
                 Title = c.Title,
                 CollageUrl = c.CollageUrl

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E4A58C9-B45C-45F7-A529-F040C95C48D4}|FrameIt.service\\FrameIt.service.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.service\\collageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A58C9-B45C-45F7-A529-F040C95C48D4}|FrameIt.service\\FrameIt.service.csproj|solutionrelative:frameit.service\\collageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\iservices\\icollageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\iservices\\icollageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E4A58C9-B45C-45F7-A529-F040C95C48D4}|FrameIt.service\\FrameIt.service.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.service\\collageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E4A58C9-B45C-45F7-A529-F040C95C48D4}|FrameIt.service\\FrameIt.service.csproj|solutionrelative:frameit.service\\collageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\dto\\collagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\dto\\collagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\controllers\\collagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CollageDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\CollageDto.cs",
+              "RelativeDocumentMoniker": "FrameIt.Core\\Dto\\CollageDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\CollageDto.cs",
+              "RelativeToolTip": "FrameIt.Core\\Dto\\CollageDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:48:14.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ICollageService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\IServices\\ICollageService.cs",
               "RelativeDocumentMoniker": "FrameIt.Core\\IServices\\ICollageService.cs",
@@ -39,26 +56,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CollageService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.service\\CollageService.cs",
               "RelativeDocumentMoniker": "FrameIt.service\\CollageService.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.service\\CollageService.cs",
               "RelativeToolTip": "FrameIt.service\\CollageService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAswDgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0UAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T21:24:36.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CollageController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\CollageController.cs",
               "RelativeDocumentMoniker": "FrameIt.Api\\Controllers\\CollageController.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\CollageController.cs",
               "RelativeToolTip": "FrameIt.Api\\Controllers\\CollageController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T21:22:02.14Z",
               "EditorCaption": ""
