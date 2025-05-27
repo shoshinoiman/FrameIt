@@ -46,13 +46,33 @@ namespace FrameIt.service
         }
 
         // get all collage by user id
-        public async Task<List<Collage>> GetCollagesByUserAsync(int userId)
+        //public async Task<List<Collage>> GetCollagesByUserAsync(int userId)
+        //{
+        //    var user =await _userRepository.GetUserByIdAsync(userId);
+        //    if (user == null)
+        //        return null;
+        //    return await _collageRepository.GetCollagesByUserIdAsync(userId);
+        //}
+
+        public async Task<List<CollageDto>> GetCollagesByUserAsync(int userId)
         {
-            var user =await _userRepository.GetUserByIdAsync(userId);
+            var user = await _userRepository.GetUserByIdAsync(userId);
             if (user == null)
                 return null;
-            return await _collageRepository.GetCollagesByUserIdAsync(userId);
+
+            var collages = await _collageRepository.GetCollagesByUserIdAsync(userId);
+
+            // ממירים את ה-Entities ל-DTOs
+            var collageDtos = collages.Select(c => new CollageDto
+            {
+                UserId = c.UserId,
+                Title = c.Title,
+                CollageUrl = c.CollageUrl
+            }).ToList();
+
+            return collageDtos;
         }
+
 
         //public async Task<ImageItem> AddImageToCollageAsync(int collageId, ImageItemDto imageItemDto)
         //{

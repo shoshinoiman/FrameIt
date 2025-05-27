@@ -3,8 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\e15410fb-e6e4-41c3-a38c-f2bb76218564\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\frameit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\frameit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{017E49DF-77F0-49E0-A9B7-806D2EFC1993}|FrameIt.Data\\FrameIt.Data.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.data\\migrations\\20250503204651_mymig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,12 +35,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{017E49DF-77F0-49E0-A9B7-806D2EFC1993}|FrameIt.Data\\FrameIt.Data.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{017E49DF-77F0-49E0-A9B7-806D2EFC1993}|FrameIt.Data\\FrameIt.Data.csproj|solutionrelative:frameit.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Downloads\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\e15410fb-e6e4-41c3-a38c-f2bb76218564\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Migrations\\20250503202152_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +65,6 @@
       "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\frameit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\frameit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E4A58C9-B45C-45F7-A529-F040C95C48D4}|FrameIt.service\\FrameIt.service.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E4A58C9-B45C-45F7-A529-F040C95C48D4}|FrameIt.service\\FrameIt.service.csproj|solutionrelative:frameit.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,11 +87,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "FrameIt.Core\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "FrameIt.Core\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:07:52.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FrameIt.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FrameIt.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAEAhwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:41:08.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "FrameIt.Core\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\UserDto.cs",
+              "RelativeToolTip": "FrameIt.Core\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:44:52.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20250503204651_mymig.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Migrations\\20250503204651_mymig.cs",
               "RelativeDocumentMoniker": "FrameIt.Data\\Migrations\\20250503204651_mymig.cs",
@@ -91,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "FrameIt.Data\\DataContext.cs",
@@ -103,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "20250503202152_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Migrations\\20250503202152_InitialCreate.cs",
               "RelativeDocumentMoniker": "FrameIt.Data\\Migrations\\20250503202152_InitialCreate.cs",
@@ -115,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "20250501192346_newmag.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Migrations\\20250501192346_newmag.cs",
               "RelativeDocumentMoniker": "FrameIt.Data\\Migrations\\20250501192346_newmag.cs",
@@ -127,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "20250501192321_newmag.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Migrations\\20250501192321_newmag.cs",
               "RelativeDocumentMoniker": "FrameIt.Data\\Migrations\\20250501192321_newmag.cs",
@@ -139,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20250501192006_newmg.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Migrations\\20250501192006_newmg.cs",
               "RelativeDocumentMoniker": "FrameIt.Data\\Migrations\\20250501192006_newmg.cs",
@@ -151,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\appsettings.json",
               "RelativeDocumentMoniker": "FrameIt.Api\\appsettings.json",
@@ -163,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "20250501182154_mgdb.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Migrations\\20250501182154_mgdb.cs",
               "RelativeDocumentMoniker": "FrameIt.Data\\Migrations\\20250501182154_mgdb.cs",
@@ -175,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Dockerfile",
               "RelativeDocumentMoniker": "FrameIt.Api\\Dockerfile",
@@ -187,19 +238,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\Program.cs",
               "ToolTip": "C:\\Users\\user1\\Downloads\\Program.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\Program.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAUwKAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwKAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T15:12:44.069Z"
+              "WhenOpened": "2025-05-01T15:12:44.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.service\\UserService.cs",
               "RelativeDocumentMoniker": "FrameIt.service\\UserService.cs",
@@ -211,32 +263,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\e15410fb-e6e4-41c3-a38c-f2bb76218564\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e15410fb-e6e4-41c3-a38c-f2bb76218564\\secrets.json",
               "ToolTip": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\e15410fb-e6e4-41c3-a38c-f2bb76218564\\secrets.json",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e15410fb-e6e4-41c3-a38c-f2bb76218564\\secrets.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-01T14:58:26.357Z"
+              "WhenOpened": "2025-05-01T14:58:26.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Program.cs",
               "RelativeDocumentMoniker": "FrameIt.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Program.cs",
-              "RelativeToolTip": "FrameIt.Api\\Program.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAQwKkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Program.cs*",
+              "RelativeToolTip": "FrameIt.Api\\Program.cs*",
+              "ViewState": "AgIAADkCAAAAAAAAAAAAADkCAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T14:53:46.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "UploadController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\UploadController.cs",
               "RelativeDocumentMoniker": "FrameIt.Api\\Controllers\\UploadController.cs",
@@ -248,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\.gitignore",
               "RelativeDocumentMoniker": "FrameIt.Api\\.gitignore",
@@ -260,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\user1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
@@ -272,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "FrameIt.Api.csproj",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\FrameIt.Api.csproj",
               "RelativeDocumentMoniker": "FrameIt.Api\\FrameIt.Api.csproj",
@@ -280,7 +333,8 @@
               "RelativeToolTip": "FrameIt.Api\\FrameIt.Api.csproj",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T18:51:48.502Z"
+              "WhenOpened": "2025-04-26T18:51:48.502Z",
+              "EditorCaption": ""
             }
           ]
         }

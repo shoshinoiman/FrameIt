@@ -29,17 +29,30 @@ namespace FrameIt.Api.Controllers
             return CreatedAtAction(nameof(GetCollageById), new { collageId = collage.Id }, collage);
         }
 
-        // קבלת כל הקולאז'ים של משתמש
+        //// קבלת כל הקולאז'ים של משתמש
+        //[HttpGet("user/{userId}")]
+        //public async Task<ActionResult<List<Collage>>> GetCollagesByUser(int userId)
+        //{
+        //    var collages = await _collageService.GetCollagesByUserAsync(userId);
+        //    return Ok(new{Collages=collages, Massage= "✅ Well done! Your action was successful. Wishing you continued success!"});
+
+        //    if (collages == null)
+        //        return NotFound("user not found👎🏿");
+        //}
         [HttpGet("user/{userId}")]
-        public async Task<ActionResult<List<Collage>>> GetCollagesByUser(int userId)
+        public async Task<ActionResult<List<CollageDto>>> GetCollagesByUser(int userId)
         {
             var collages = await _collageService.GetCollagesByUserAsync(userId);
-            return Ok(new{Collages=collages, Massage= "✅ Well done! Your action was successful. Wishing you continued success!"});
 
-            if (collages == null)
-                return NotFound("user not found👎🏿");
+            if (collages == null || !collages.Any())
+                return NotFound("user not found 👎🏿");
+
+            return Ok(new
+            {
+                Collages = collages,
+                Message = "✅ Well done! Your action was successful. Wishing you continued success!"
+            });
         }
-
 
 
         // קבלת קולאז' לפי מזהה
