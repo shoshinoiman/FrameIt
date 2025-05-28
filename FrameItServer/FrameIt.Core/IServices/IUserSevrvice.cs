@@ -11,6 +11,8 @@ namespace FrameIt.Core.Services
 {
     public interface IUserService
     {
+        Task<List<User>> GetAllAsync();
+
         Task<string> RegisterAsync(RegisterDto request);
         Task<string> LoginAsync(LoginDto request);
         Task<UserDto> GetUserByIdAsync(int userId);

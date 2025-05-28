@@ -18,6 +18,11 @@ namespace FrameIt.Data.Repositories
             _mapper = mapper;
         }
 
+        public async Task<List<User>> GetAllAsync()
+        {
+            return await _context.Users.ToListAsync();
+        }
+
         //get user by email
         public async Task<User> GetUserByEmailAsync(string email)
         {

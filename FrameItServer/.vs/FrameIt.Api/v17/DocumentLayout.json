@@ -44,9 +44,10 @@
               "RelativeDocumentMoniker": "FrameIt.Api\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "FrameIt.Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAQwFMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:52:25.727Z"
+              "WhenOpened": "2025-05-28T08:52:25.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,9 +57,10 @@
               "RelativeDocumentMoniker": "FrameIt.Core\\IServices\\IUserSevrvice.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\IServices\\IUserSevrvice.cs",
               "RelativeToolTip": "FrameIt.Core\\IServices\\IUserSevrvice.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:52:08.062Z"
+              "WhenOpened": "2025-05-28T08:52:08.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +82,7 @@
               "RelativeDocumentMoniker": "FrameIt.Data\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "FrameIt.Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T08:42:51.199Z",
               "EditorCaption": ""
@@ -93,9 +95,10 @@
               "RelativeDocumentMoniker": "FrameIt.Core\\IRepositories\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\IRepositories\\IUserRepository.cs",
               "RelativeToolTip": "FrameIt.Core\\IRepositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:41:25.749Z"
+              "WhenOpened": "2025-05-28T08:41:25.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -105,9 +108,10 @@
               "RelativeDocumentMoniker": "FrameIt.service\\UserService.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.service\\UserService.cs",
               "RelativeToolTip": "FrameIt.service\\UserService.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAQwL4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:40:30.329Z"
+              "WhenOpened": "2025-05-28T08:40:30.329Z",
+              "EditorCaption": ""
             }
           ]
         }

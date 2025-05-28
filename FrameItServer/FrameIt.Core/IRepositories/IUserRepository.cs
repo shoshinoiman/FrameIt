@@ -10,6 +10,7 @@ namespace FrameIt.Core.Repositories
 {
     public interface IUserRepository
     {
+        Task<List<User>> GetAllAsync();
         Task<User> GetUserByEmailAsync(string email);
         Task<User> GetUserByIdAsync(int id);
         Task<User> AddUserAsync(User user);

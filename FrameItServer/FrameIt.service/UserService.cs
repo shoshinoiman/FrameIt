@@ -36,6 +36,11 @@ namespace FrameIt.service
             _configuration = configuration;
         }
 
+        public async Task<List<User>> GetAllAsync()
+        {
+            return await _userRepository.GetAllAsync();
+        }
+
         public async Task<string> RegisterAsync(RegisterDto request)
         {
             if (await _userRepository.GetUserByEmailAsync(request.Email) != null)
