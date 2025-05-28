@@ -95,9 +95,10 @@ namespace FrameIt.Api.Controllers
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetAllUsersAsync()
         {
-            var users = await _userService.GetAllUsersAsync();
+            var users = (await _userService.GetAllUsersAsync()).ToList();
             return Ok(new { Users = users, Message = "✅ Successfully fetched all users." });
         }
+
 
 
     }
