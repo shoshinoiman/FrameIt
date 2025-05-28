@@ -67,5 +67,31 @@ namespace FrameIt.Api.Controllers
 
             return Ok(new{Succes= success,Massage = "✅ Well done! Your action was successful. Wishing you continued success!" });
         }
+
+        ////delete user
+        //[HttpDelete("{id}")]
+        //public async Task<IActionResult> DeleteUserAsync(int id)
+        //{
+        //    var result = await _userService.DeleteUserAsync(id);
+        //    if (!result.Success)
+        //        return BadRequest(result.Message);
+
+        //    return Ok(result);
+        //}
+
+
+
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> DeleteUserAsync(int id)
+        {
+            var result = await _userService.DeleteUserAsync(id);
+            if (!result.Success)
+                return BadRequest(result.Message);
+
+            return Ok(result);
+        }
+
+
     }
 }

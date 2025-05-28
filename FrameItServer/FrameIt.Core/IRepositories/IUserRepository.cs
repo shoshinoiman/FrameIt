@@ -15,5 +15,6 @@ namespace FrameIt.Core.Repositories
         Task<User> AddUserAsync(User user);
         Task SaveChangesAsync();
         Task<User> UpdateAsync(User user);
+        Task<bool> DeleteUserAsync(int id);
     }
 }

@@ -1,11 +1,13 @@
 ﻿using AutoMapper;
 using FrameIt.Core.Dto;
+using FrameIt.Core.Items;
 using FrameIt.Core.Repositories;
 using FrameIt.Core.Services;
 using FrameIt.Data.Items;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Exchange.WebServices.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
@@ -120,6 +122,71 @@ namespace FrameIt.service
             );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+
+
+        //public async Task<ApiResponse<bool>> DeleteUserAsync(int id)
+        //{
+        //    var user = await _userRepository.GetUserByIdAsync(id);
+        //    if (user == null)
+        //    {
+        //        return new ApiResponse<bool>
+        //        {
+        //            Success = false,
+        //            Data = false,
+        //            Message = "User not found."
+        //        };
+        //    }
+
+        //    if (user.IsAdmin)
+        //    {
+        //        return new ApiResponse<bool>
+        //        {
+        //            Success = false,
+        //            Data = false,
+        //            Message = "Cannot delete admin user."
+        //        };
+        //    }
+
+        //    var deleted = await _userRepository.DeleteUserAsync(id);
+        //    return new ApiResponse<bool>
+        //    {
+        //        Success = deleted,
+        //        Data = deleted,
+        //        Message = deleted ? "User deleted successfully." : "Failed to delete user."
+        //    };
+        //}
+
+        public async Task<ApiResponse<bool>> DeleteUserAsync(int id)
+        {
+            var user = await _userRepository.GetUserByIdAsync(id);
+            if (user == null)
+            {
+                return new ApiResponse<bool>
+                {
+                    Success = false,
+                    Data = false,
+                    Message = "User not found."
+                };
+            }
+
+            if (user.IsAdmin)
+            {
+                return new ApiResponse<bool>
+                {
+                    Success = false,
+                    Data = false,
+                    Message = "Cannot delete admin user."
+                };
+            }
+
+            var deleted = await _userRepository.DeleteUserAsync(id);
+            return new ApiResponse<bool>
+            {
+                Success = deleted,
+                Data = deleted,
+                Message = deleted ? "User deleted successfully." : "Failed to delete user."
+            };
         }
 
     }

@@ -1,4 +1,5 @@
 ﻿using FrameIt.Core.Dto;
+using FrameIt.Core.Items;
 using FrameIt.Data.Items;
 using System;
 using System.Collections.Generic;
@@ -17,6 +18,8 @@ namespace FrameIt.Core.Services
         //Task<bool> DeleteUserAsync(int userId);
          string GenerateJwtToken(User user);
         Task<UserDto> UpdateUserAsync(int id, UpdateUserDto userUpdateDTO);
+        Task<ApiResponse<bool>> DeleteUserAsync(int id);
+
     }
 
 }
