@@ -194,6 +194,19 @@ namespace FrameIt.service
             };
         }
 
+        public async Task<IEnumerable<UserDto>> GetAllUsersAsync()
+        {
+            var users = await _userRepository.GetAllUsersAsync();
+            return users.Select(user => new UserDto
+            {
+                //Id = user.Id,
+                Name = user.Name,
+                Email = user.Email,
+                // שדות נוספים לפי הצורך
+            });
+        }
+
+
     }
 
 }

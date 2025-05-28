@@ -21,6 +21,7 @@ namespace FrameIt.Core.Services
          string GenerateJwtToken(User user);
         Task<UserDto> UpdateUserAsync(int id, UpdateUserDto userUpdateDTO);
         Task<ApiResponse<bool>> DeleteUserAsync(int id);
+        Task<IEnumerable<UserDto>> GetAllUsersAsync();
 
     }
 

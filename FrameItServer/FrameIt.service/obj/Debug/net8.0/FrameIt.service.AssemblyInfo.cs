@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrameIt.service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8eb619a7de82f8ea25f2f3e6e79b74482182a57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+442afd9e459ca14d03a6383dc804a1e20ef96ff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrameIt.service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrameIt.service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

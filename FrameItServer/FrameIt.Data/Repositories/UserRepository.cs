@@ -74,5 +74,12 @@ namespace FrameIt.Data.Repositories
             await _context.SaveChangesAsync();
             return true;
         }
+
+
+        public async Task<IEnumerable<User>> GetAllUsersAsync()
+        {
+            return await _context.Users.ToListAsync();
+        }
+
     }
 }
