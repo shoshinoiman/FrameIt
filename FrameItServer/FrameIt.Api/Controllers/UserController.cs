@@ -26,9 +26,9 @@ namespace FrameIt.Api.Controllers
         {
             var token = await _userService.RegisterAsync(request);
             if (token == null)
-                return BadRequest(new { Massage= "User already exists."});
+                return BadRequest(new { Message= "User already exists."});
 
-            return Ok(new { Token = token, Massage = "✅ Well done! Your action was successful. Wishing you continued success!" });
+            return Ok(new { Token = token, Message = "✅ Well done! Your action was successful. Wishing you continued success!" });
         }
 
         //login
@@ -39,7 +39,7 @@ namespace FrameIt.Api.Controllers
             if (result ==null)
                 return Unauthorized("Email or password is incorrect.");
 
-            return Ok(new { Token = result , Massage= "✅ Well done! Your action was successful. Wishing you continued success!" });
+            return Ok(new { Token = result , Message= "✅ Well done! Your action was successful. Wishing you continued success!" });
         }
 
 
@@ -52,7 +52,7 @@ namespace FrameIt.Api.Controllers
             if (userDto == null)
                 return NotFound("User not found.");
 
-            return Ok(new {User= userDto ,Massage= "✅ Well done! Your action was successful. Wishing you continued success!" });
+            return Ok(new {User= userDto ,Message= "✅ Well done! Your action was successful. Wishing you continued success!" });
         }
 
 
@@ -65,7 +65,7 @@ namespace FrameIt.Api.Controllers
             if (success==null)
                 return NotFound("User not found.");
 
-            return Ok(new{Succes= success,Massage = "✅ Well done! Your action was successful. Wishing you continued success!" });
+            return Ok(new{Success= success,Message = "✅ Well done! Your action was successful. Wishing you continued success!" });
         }
 
         ////delete user
