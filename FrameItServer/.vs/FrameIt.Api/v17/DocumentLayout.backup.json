@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{0E4A58C9-B45C-45F7-A529-F040C95C48D4}|FrameIt.service\\FrameIt.service.csproj|solutionrelative:frameit.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\items\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\items\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{017E49DF-77F0-49E0-A9B7-806D2EFC1993}|FrameIt.Data\\FrameIt.Data.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{017E49DF-77F0-49E0-A9B7-806D2EFC1993}|FrameIt.Data\\FrameIt.Data.csproj|solutionrelative:frameit.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\items\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\items\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.core\\iservices\\iusersevrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D41D866-4A3C-45CF-B30A-61D0F27E70D7}|FrameIt.Core\\FrameIt.Core.csproj|solutionrelative:frameit.core\\iservices\\iusersevrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|solutionrelative:frameit.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E7E240-5E6E-4A9F-9D97-8F59A65A2A63}|FrameIt.Api\\FrameIt.Api.csproj|c:\\users\\user1\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\frameitserver\\frameit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "FrameIt.Core\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Dto\\UserDto.cs*",
+              "RelativeToolTip": "FrameIt.Core\\Dto\\UserDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:38:25.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\Items\\User.cs",
               "RelativeDocumentMoniker": "FrameIt.Core\\Items\\User.cs",
@@ -50,25 +67,24 @@
               "RelativeToolTip": "FrameIt.Core\\Items\\User.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:11:58.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T18:11:58.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "FrameIt.Api\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "FrameIt.Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwGEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T08:52:25.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IUserSevrvice.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\IServices\\IUserSevrvice.cs",
               "RelativeDocumentMoniker": "FrameIt.Core\\IServices\\IUserSevrvice.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "FrameIt.Core\\IServices\\IUserSevrvice.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAzwBUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:52:08.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T08:52:08.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Api\\Program.cs",
               "RelativeDocumentMoniker": "FrameIt.Api\\Program.cs",
@@ -99,14 +114,14 @@
               "RelativeDocumentMoniker": "FrameIt.Data\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Data\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "FrameIt.Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwFAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T08:42:51.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.Core\\IRepositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "FrameIt.Core\\IRepositories\\IUserRepository.cs",
@@ -114,8 +129,7 @@
               "RelativeToolTip": "FrameIt.Core\\IRepositories\\IUserRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:41:25.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T08:41:25.749Z"
             },
             {
               "$type": "Document",
@@ -123,9 +137,9 @@
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.service\\UserService.cs",
               "RelativeDocumentMoniker": "FrameIt.service\\UserService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.service\\UserService.cs",
-              "RelativeToolTip": "FrameIt.service\\UserService.cs",
-              "ViewState": "AgIAAMIAAAAAAAAAAAD4v8kAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D4\u05D2\u05E9\u05D5\u05EA\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DE\u05DC\u05DB\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\FrameItServer\\FrameIt.service\\UserService.cs*",
+              "RelativeToolTip": "FrameIt.service\\UserService.cs*",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAcwMsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T08:40:30.329Z",
               "EditorCaption": ""

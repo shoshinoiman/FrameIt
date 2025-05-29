@@ -199,7 +199,7 @@ namespace FrameIt.service
             var users = await _userRepository.GetAllUsersAsync();
             return users.Select(user => new UserDto
             {
-                //Id = user.Id,
+                Id = user.Id,
                 Name = user.Name,
                 Email = user.Email,
                 // שדות נוספים לפי הצורך
